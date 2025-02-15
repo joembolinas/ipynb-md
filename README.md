@@ -1,5 +1,5 @@
 ---
-title: Notebook To Md Converter
+title: Notebook To Markdown Converter
 emoji: 🌖
 colorFrom: indigo
 colorTo: yellow

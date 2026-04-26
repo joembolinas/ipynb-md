@@ -88,6 +88,16 @@ Install Gradio in the same Python environment used to run `app.py`.
 
 If `Set-ExecutionPolicy` cannot load in your shell, activate the virtual environment from a standard PowerShell instance or run Python directly from `.venv\Scripts\python.exe`.
 
+## Acknowledgments
+
+This project is inspired by the original Hugging Face Space:
+
+- **m-ric / notebook_to_markdown**: <https://huggingface.co/spaces/m-ric/notebook_to_markdown>
+
+Special thanks to **m-ric (Aymeric Roucher)** for the original idea and implementation that inspired this project.
+
+This repository is my learning-driven adaptation, built with gratitude and expanded with additional handling for notebook outputs (including chart/diagram rendering data where available).
+
 ## Hugging Face Spaces
 
 This repository includes Spaces frontmatter metadata at the top of this file.
